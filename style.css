@@ -1,0 +1,143 @@
+body{
+	background-image: url("image/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.container-fluid{
+    padding: 2% 10%;
+}
+.container { 
+    padding: 2% 10%;
+}
+
+.wrapper_A{
+	
+	max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.wrapper_B{
+	background-color: azure;
+	opacity: 0.8;
+	max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.wrapper{
+	background-color: azure;
+	opacity: 0.8;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    display: block;
+    margin-left: 40%;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+.pizza{
+	height:280px;
+	width: auto;
+	object-fit: contain;
+}
+
+.smallPizza{
+	width: 42%;
+}
+
+.Mpizza{
+	width: 45%;
+}
+
+.Lpizza{
+	width: 50%;
+}
+
+.Ta{
+	width: 100%;
+}
+
+.Tb{
+	width: 85%;
+}
+
+.Tc{
+	width: 65%;
+}
+
+.Td{
+	width: 75%;
+}
+
+.Te{
+	width: 75%;
+}
+
+
+header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+
+
+div#total {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+div#contain {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+div.fix {
+	width: 150px;
+	height: 150px;
+}
+
+div.fixed {
+	position: relative;
+	width: auto;
+	height: auto;
+	text-align: left;
+}
+
+div.fixer {
+	position: relative;
+	width: auto;
+	height: auto;
+	top: 90px;
+	text-align: left;
+}
+
+td p {
+	vertical-align: top;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+
+
+#choices {
+    padding: 2% 10%;
+    float:right; 
+    width: 30%; 
+    height:280px; 
+}
+
+p {
+	margin-bottom: .5em;
+}
+
+
